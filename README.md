@@ -25,7 +25,7 @@ Tools which use LLMs to find a range of vulnerabilities in web applications.
 
 | Main Site | Last Commit | Committers | Stars |
 | --- | --- | --- | --- |
-| [aress31/burpgpt](https://github.com/aress31/burpgpt) | [![Last Commit](https://img.shields.io/github/last-commit/aress31/burpgpt)](https://github.com/aress31/burpgpt/commits) | [![Contributors](https://img.shields.io/github/contributors/aress31/burpgpt)](https://github.com/aress31/burpgpt/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt/stargazers) |
+| [burpgpt](https://github.com/aress31/burpgpt) | [![Last Commit](https://img.shields.io/github/last-commit/aress31/burpgpt)](https://github.com/aress31/burpgpt/commits) | [![Contributors](https://img.shields.io/github/contributors/aress31/burpgpt)](https://github.com/aress31/burpgpt/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt/stargazers) |
 | [Rogue](https://github.com/faizann24/rogue) | [![Last Commit](https://img.shields.io/github/last-commit/faizann24/rogue)](https://github.com/faizann24/rogue/commits) | [![Contributors](https://img.shields.io/github/contributors/faizann24/rogue)](https://github.com/faizann24/rogue/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/faizann24/rogue)](https://github.com/faizann24/rogue/stargazers) |
 
 ## Contribute
