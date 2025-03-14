@@ -1,6 +1,8 @@
 # open-source-llm-scanners
 A list of open source LLM security scanners on GitHub, ordered by Stars. It does not provide in-depth analysis.
- A minimum of 10 stars are needed as a low bar 😁
+A minimum of 10 stars are needed as a low bar 😁
+
+Related: [open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 
 ## LLM Scanners
 
@@ -10,6 +12,7 @@ Tools which can find a range of vulnerabilities in LLM applications.
 | --- | --- | --- | --- |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | [![Last Commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo/commits) | [![Contributors](https://img.shields.io/github/contributors/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo/stargazers) |
 | [garak](https://github.com/NVIDIA/garak) | [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/garak)](https://github.com/NVIDIA/garak/commits) | [![Contributors](https://img.shields.io/github/contributors/NVIDIA/garak)](https://github.com/NVIDIA/garak/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/NVIDIA/garak)](https://github.com/NVIDIA/garak/stargazers) |
+| [PyRIT](https://github.com/Azure/PyRIT) | [![Last Commit](https://img.shields.io/github/last-commit/Azure/PyRIT)](https://github.com/Azure/PyRIT/commits) | [![Contributors](https://img.shields.io/github/contributors/Azure/PyRIT)](https://github.com/Azure/PyRIT/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/Azure/PyRIT)](https://github.com/Azure/PyRIT/stargazers) |
 | [Agentic Security](https://github.com/msoedov/agentic_security) | [![Last Commit](https://img.shields.io/github/last-commit/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/commits) | [![Contributors](https://img.shields.io/github/contributors/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/stargazers) |
 | [Promptmap2](https://github.com/utkusen/promptmap) | [![Last Commit](https://img.shields.io/github/last-commit/utkusen/promptmap)](https://github.com/utkusen/promptmap/commits) | [![Contributors](https://img.shields.io/github/contributors/utkusen/promptmap)](https://github.com/utkusen/promptmap/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/utkusen/promptmap)](https://github.com/utkusen/promptmap/stargazers) |
 | [Vigil](https://github.com/deadbits/vigil-llm) | [![Last Commit](https://img.shields.io/github/last-commit/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm/commits) | [![Contributors](https://img.shields.io/github/contributors/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm/stargazers) |
