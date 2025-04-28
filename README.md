@@ -35,6 +35,10 @@ Tools which use LLMs to find a range of vulnerabilities in web applications.
 | [Rogue](https://github.com/faizann24/rogue) | [![Last Commit](https://img.shields.io/github/last-commit/faizann24/rogue)](https://github.com/faizann24/rogue/commits) | [![Contributors](https://img.shields.io/github/contributors/faizann24/rogue)](https://github.com/faizann24/rogue/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/faizann24/rogue)](https://github.com/faizann24/rogue/stargazers) |
 | [FAAST](https://github.com/yacwagh/FAAST) | [![Last Commit](https://img.shields.io/github/last-commit/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/commits) | [![Contributors](https://img.shields.io/github/contributors/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/stargazers) |
 
+## Links
+
+* https://github.com/kaplanlior/oss-llm-security Curated list of Open Source project focused on LLM security
+
 ## Contribute
 
 PR's welcomed.
